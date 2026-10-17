@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/beir-cellar/beir/commit/ef83d29307061c65d04b035b4f4e7c18bd8374af",
       "git:hexsha": "ef83d29307061c65d04b035b4f4e7c18bd8374af",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T07:30:26.627487+00:00"
     },
     {
       "@id": "https://repolex.ai/r/beir-cellar/beir/commit/2a213cdd5c708d4d80174efb6096800c32a656dc",
