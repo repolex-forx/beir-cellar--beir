@@ -1,0 +1,11 @@
+{
+  "org": "beir-cellar",
+  "repo": "beir",
+  "versions": [
+    {
+      "commit": "ef83d29307061c65d04b035b4f4e7c18bd8374af",
+      "tag": "",
+      "parsed_at": "2026-10-17T07:30:26.736356+00:00"
+    }
+  ]
+}
